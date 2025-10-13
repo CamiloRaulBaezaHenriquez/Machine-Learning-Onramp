@@ -13,4 +13,4 @@ No es necesario aprender mucha teoría para empezar a practicar machine learning
 Durante el curso, utilizará una versión web de MATLAB dentro del entorno de formación. Tiene un aspecto ligeramente diferente al de MATLAB Online o MATLAB Desktop, pero utilizará exactamente el mismo lenguaje de MATLAB.
 
 
-![alt text](image.png)
+![Mi imagen](.\Visión general sobre machine learning\flujo_trabajo_machine_learning.png)
