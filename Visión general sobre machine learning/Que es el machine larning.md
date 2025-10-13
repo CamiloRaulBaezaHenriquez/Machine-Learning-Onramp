@@ -1,3 +1,5 @@
+¿Que es el marchine learning?
+
 Aquí comienza el curso introductorio Machine Learning Onramp. Se habla mucho sobre machine learning, pero ¿qué es y por qué es tan importante?
 
 En un nivel muy general, machine learning es un conjunto de técnicas para extraer información a partir de datos. Como usar un historial de compras para detectar fraudes con tarjetas de crédito, usar el estado de un equipo para predecir cuándo necesitará mantenimiento o usar la posición de un lápiz en una tableta a lo largo del tiempo para determinar qué se ha escrito.
