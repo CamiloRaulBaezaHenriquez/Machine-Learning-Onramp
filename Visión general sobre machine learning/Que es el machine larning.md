@@ -14,7 +14,7 @@ Durante el curso, utilizará una versión web de MATLAB dentro del entorno de fo
 
 
 
-![Texto alternativo](flujo_trabajo_machine_learning.png)
+<!--![Texto alternativo](flujo_trabajo_machine_learning.png)-->
 
 <p align="center">
   <img src="flujo_trabajo_machine_learning.png" alt="Texto alternativo" width="1000">
