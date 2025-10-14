@@ -7,11 +7,9 @@ axis([-1 1 -1 1]);
 %Task 1
 timeToWrite = letter.Time(end);
 
-
 %Task 2
 letterHeight = range(letter.Y);
 letterWidth = range(letter.X);
-
 
 %Task 3
 features = table(letter.Time(end), range(letter.Y), range(letter.X), 'VariableNames', {'timeToWrite', 'letterHeight', 'letterWidth'})
