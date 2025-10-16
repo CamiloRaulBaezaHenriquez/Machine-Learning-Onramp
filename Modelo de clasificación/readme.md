@@ -5,3 +5,7 @@ Un modelo de clasificación es una división del espacio de las variables de pre
 </p>
 
 https://la.mathworks.com/help/stats/hyperparameter-optimization-in-classification-learner-app.html
+
+<p align="center">
+  <img src="matriz de confusion.png" alt="Texto alternativo" width="1000">
+</p>
