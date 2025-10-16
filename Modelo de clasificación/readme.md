@@ -9,3 +9,7 @@ https://la.mathworks.com/help/stats/hyperparameter-optimization-in-classificatio
 <p align="center">
   <img src="matriz de confusion.png" alt="Texto alternativo" width="1000">
 </p>
+
+<p align="center">
+  <img src="matriz de confusion _ sectores de clasificacion.png" alt="Texto alternativo" width="1000">
+</p>
